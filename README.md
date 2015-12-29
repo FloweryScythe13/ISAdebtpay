@@ -1,1 +1,3 @@
 # ISAdebtpay 
+
+This is a small pending project for my mastermind group. The eventual goal is to create a web interface or app that will allow the user to select their own values for the appropriate quantities. The app would then run the R script written by a friend and included here on the back end, with the values passed to the proper R variables. The program would ultimately display the same graphs as the R script, but within the browser.  
